@@ -1,7 +1,9 @@
 [![DOI](https://zenodo.org/badge/1094632894.svg)](https://doi.org/10.5281/zenodo.17752494)
 
 November 11, 2025
+
 Abstract
+
 We establish an exact identity for the spectral coherence measure computed on
 stationary unfolded gap sequences: for any N ≥ 2, E[CN] = (N − 1)/N. Under
 short-range mixing assumptions, we further show that Var(CN) ∼ c/N2, where the
